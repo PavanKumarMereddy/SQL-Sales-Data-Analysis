@@ -36,7 +36,8 @@ LIMIT 5;
 
 **Expected Outcome:** A list of the top-selling products with their respective quantities ordered.
  
-![image](https://github.com/PavanKumarMereddy/SQL_Sales_Data_Analysis/assets/155641231/52ac4e0d-465f-413b-ab89-7307ae3ba1f7)
+![image](https://github.com/PavanKumarMereddy/SQL-Sales-Data-Analysis/assets/155641231/db6f9c01-a596-4582-8625-7131474fde61)
+
 
 
 **Revenue Analysis:**
@@ -51,7 +52,8 @@ FROM sales_data;
 
 **Expected Outcome:** A single value representing the total revenue from sales.
 
-![image](https://github.com/PavanKumarMereddy/SQL_Sales_Data_Analysis/assets/155641231/6c0c7f54-62b2-435f-a9c4-c73b6df17f96)
+![image](https://github.com/PavanKumarMereddy/SQL-Sales-Data-Analysis/assets/155641231/a813491e-8601-4a4e-89f9-3d0dcf541d4b)
+
 
 
 **Monthly Sales Trends:**
@@ -69,7 +71,7 @@ ORDER BY monthly_revenue;
 
 **Expected Outcome:** A monthly breakdown of sales revenue, showing trends or seasonality.
 
-![image](https://github.com/PavanKumarMereddy/SQL_Sales_Data_Analysis/assets/155641231/bef39d46-f8c5-41de-a496-8fd599b2dcf3)
+![image](https://github.com/PavanKumarMereddy/SQL-Sales-Data-Analysis/assets/155641231/3d58a7eb-f1b5-4356-8cee-3697906af5a7)
 
 
 **City-wise Sales Performance:**
@@ -88,7 +90,8 @@ LIMIT 3;
 
 **Expected Outcome:** Identification of the city with the highest sales and the corresponding sales amount.
 
-![image](https://github.com/PavanKumarMereddy/SQL_Sales_Data_Analysis/assets/155641231/5d0b4adc-cf4b-4f30-982c-5cd3691db0c0)
+![image](https://github.com/PavanKumarMereddy/SQL-Sales-Data-Analysis/assets/155641231/07e49b31-6824-477d-86d1-8112e6289e46)
+
 
 
 **Order Quantity Distribution:**
@@ -105,7 +108,7 @@ ORDER BY quantity_ordered;
 
 **Expected Outcome:** A histogram or summary statistics showing the distribution of order quantities.
 
-![image](https://github.com/PavanKumarMereddy/SQL_Sales_Data_Analysis/assets/155641231/137865fb-97ba-4b00-86d2-dc0a2e2336e4) ![image](https://github.com/PavanKumarMereddy/SQL_Sales_Data_Analysis/assets/155641231/10f18c53-9e80-4ec8-b6c1-5012e1b9abc2)
+![image](https://github.com/PavanKumarMereddy/SQL-Sales-Data-Analysis/assets/155641231/dad1be1d-b1a8-49bb-bc0d-ad07ec8d6708) ![image](https://github.com/PavanKumarMereddy/SQL-Sales-Data-Analysis/assets/155641231/dbaa52d2-53a5-42d2-ad35-4d0ea9331b91)
 
 
 **Average Order Value:**
@@ -120,7 +123,7 @@ FROM sales_data;
 
 **Expected Outcome:** A single value representing the average order value.
 
- ![image](https://github.com/PavanKumarMereddy/SQL_Sales_Data_Analysis/assets/155641231/6e940266-120d-4eda-8f80-df7a4a05a1bb)
+ ![image](https://github.com/PavanKumarMereddy/SQL-Sales-Data-Analysis/assets/155641231/1faee15d-e188-45cc-a832-af755418d628)
 
 
 **Seasonal Sales Analysis:**
@@ -138,7 +141,7 @@ ORDER BY monthly_revenue DESC;
 **Expected Outcome:** Visualization or summary highlighting any seasonal trends in sales.
 
 
-![graph_visualiser-1704441464580](https://github.com/PavanKumarMereddy/SQL_Sales_Data_Analysis/assets/155641231/36ada37f-c539-45bc-b782-da73931ff2a5)
+![image](https://github.com/PavanKumarMereddy/SQL-Sales-Data-Analysis/assets/155641231/1e8a6093-2dd5-4bc8-9389-d171ec75678b)
 
 
 **Correlation Between Price and Sales:**
@@ -154,7 +157,7 @@ FROM sales_data;
 
 **Expected Outcome:** Insights into whether higher-priced products tend to have lower quantities ordered or vice versa.
 
-![image](https://github.com/PavanKumarMereddy/SQL_Sales_Data_Analysis/assets/155641231/a8859045-1b6d-4429-8f8c-390ea57c911e)
+![image](https://github.com/PavanKumarMereddy/SQL-Sales-Data-Analysis/assets/155641231/7cdf5f90-df84-4c07-8b79-f96d61fd5c98)
 
 
 **Customer Segmentation:**
