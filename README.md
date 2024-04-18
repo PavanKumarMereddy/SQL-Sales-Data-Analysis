@@ -157,7 +157,7 @@ FROM sales_data;
 
 **Expected Outcome:** Insights into whether higher-priced products tend to have lower quantities ordered or vice versa.
 
-![image](https://github.com/PavanKumarMereddy/SQL-Sales-Data-Analysis/assets/155641231/7cdf5f90-df84-4c07-8b79-f96d61fd5c98)
+![image](https://github.com/PavanKumarMereddy/SQL-Sales-Data-Analysis/assets/155641231/fcf6e8e9-d16f-4c96-8c8d-320b628ac48e)
 
 
 **Customer Segmentation:**
@@ -179,7 +179,7 @@ GROUP BY customer_segment;
 
 **Expected Outcome:** Clusters or groups of customers with similar purchasing patterns.
 
-![image](https://github.com/PavanKumarMereddy/SQL_Sales_Data_Analysis/assets/155641231/2ea37626-eaaa-4625-a3fd-b5d14ae6595e)
+![image](https://github.com/PavanKumarMereddy/SQL-Sales-Data-Analysis/assets/155641231/ea877d6c-df3a-483e-bdbc-baaa0bcbb477)
 
 
 **Geographical Analysis:**
@@ -195,8 +195,8 @@ GROUP BY city;
 
 **Expected Outcome:** Regional analysis highlighting areas with higher and lower sales.
 
-![image](https://github.com/PavanKumarMereddy/SQL_Sales_Data_Analysis/assets/155641231/45a30026-28f5-4707-ac3c-67c296244218)
-![graph_visualiser-1704454623376](https://github.com/PavanKumarMereddy/SQL_Sales_Data_Analysis/assets/155641231/e3fc2b9f-8ce0-4eea-8ea8-c636e6a761e8)
+![image](https://github.com/PavanKumarMereddy/SQL-Sales-Data-Analysis/assets/155641231/e96d3a01-490f-483d-a7ac-b17e02de6a73)
+![image](https://github.com/PavanKumarMereddy/SQL-Sales-Data-Analysis/assets/155641231/095d00ac-15e7-413b-926c-a905b78b3d7c)
 
 
 ## Data Exploration and Visualizations
@@ -226,7 +226,7 @@ e)	Wired Headphones.
 >Total Revenue $34 Million
 
 **Monthly sales trends** 
-![graph_visualiser-1704455263310](https://github.com/PavanKumarMereddy/SQL_Sales_Data_Analysis/assets/155641231/cf643de4-dcad-45ae-b9b3-af5af948bd1f)
+![image](https://github.com/PavanKumarMereddy/SQL-Sales-Data-Analysis/assets/155641231/eec39865-e172-4635-b1d8-4459de537a11)
 
 ## Insights and Recommendations
 
